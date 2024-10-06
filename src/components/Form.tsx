@@ -42,7 +42,10 @@ const Form: FC<{
                             title: title,
                             level: level,
                         }
-                        console.log(newTodo)
+                        if (!title) {
+                            alert('Please enter a title')
+                            return
+                        }
                         handleAddTask(newTodo)
                     }}
                     className='ml-1 rounded-md font-semibold text-sm text-white shadow-sm p-2 bg-blue-400 text-center'
