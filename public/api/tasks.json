@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "The Sliding Mr. Sing (Next Stop, Pottersville)",
+        "level": 1
+    },
+    {
+        "id": 2,
+        "name": "The Sliding Mr. Tu (Next Stop, Pottersville)",
+        "level": 2
+    },
+    {
+        "id": 3,
+        "name": "The Sliding Mr. Nhi (Next Stop, Pottersville)",
+        "level": 3
+    },
+    {
+        "id": 4,
+        "name": "Witchy Woman 1",
+        "level": 3
+    },
+    {
+        "id": 5,
+        "name": "Witchy Woman 2",
+        "level": 3
+    },
+    {
+        "id": 6,
+        "name": "Shining Star",
+        "level": 3
+    }
+]
